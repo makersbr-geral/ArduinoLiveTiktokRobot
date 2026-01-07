@@ -11,6 +11,7 @@ O sistema monitora comentários e presentes (gifts) enviados durante uma Live e 
 ### 1. Preparação do Arduino
 Carregue o código disponível na pasta `/arduino` para sua placa. Certifique-se de que os servos estão conectados nos pinos 9 e 10. Leds, 12 e 13.
 
+[Código Arduino aqui ](https://github.com/makersbr-geral/ArduinoLiveTiktokRobot/blob/main/arduinoLiveTikTok.cpp)
 ### 2. Configuração do Python
 Clone este repositório e instale as dependências:
 ```bash
